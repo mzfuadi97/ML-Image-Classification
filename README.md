@@ -14,7 +14,10 @@ Username dicoding: mzfuadi97
 | Opsi deployment | Tahap ini melibatkan konversi model Keras yang sudah dilatih menjadi format TFLite, yang lebih cocok untuk perangkat seluler atau sumber daya terbatas. Konversi dilakukan menggunakan objek konverter TFLite, dan model yang dihasilkan disimpan dalam file 'RPS_model.tflite', yang dapat digunakan untuk inferensi di perangkat terbatas seperti ponsel. |
 
 ### Dataset
+![Dataset](https://github.com/mzfuadi97/ML-Image-Classification/assets/70827786/b716574e-e636-427c-a91c-20db4f31c225)
 
 ### Metric_Evaluation
+![Epoch](https://github.com/mzfuadi97/ML-Image-Classification/assets/70827786/d41fba09-ddd8-474d-b8cb-579a83b82646)
 
 ### Validation-Vis
+![Validation](https://github.com/mzfuadi97/ML-Image-Classification/assets/70827786/a08094c3-c083-43db-83d7-375bc1252fee)
